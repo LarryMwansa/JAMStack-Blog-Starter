@@ -1,7 +1,7 @@
 module.exports = function(eleventyConfig) {
     
-    config.addPassthroughCopy()
-    config.addPassthroughCopy()
+    eleventyConfig.addPassthroughCopy('./src/style.css'); 
+    eleventyConfig.addPassthroughCopy('./src/assets'); 
 
     return {
         dir: {
