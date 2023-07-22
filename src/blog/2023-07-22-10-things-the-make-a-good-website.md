@@ -6,11 +6,12 @@ author: Bwanji Digital Staffer
 date: 2023-07-22T13:58:44.881Z
 tags:
   - post
-  - technology
+  - web development
   - featured
 image: /assets/blog/10-things-make-a-good-website.jpg
 imageAlt: Photo by Pixabay
 ---
+
 In today's digital age, a website serves as the virtual face of a business or organization. It is often the first point of contact between potential customers and your brand. As such, having a good website is crucial for making a positive impression and driving engagement. A well-designed and user-friendly website can significantly impact your online presence and overall success. In this article, we will explore the key elements that contribute to making a good website.
 
 ## 1. Clear and Intuitive Navigation
