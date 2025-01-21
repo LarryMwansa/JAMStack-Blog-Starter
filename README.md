@@ -29,6 +29,9 @@ Setting off
 - Social Commentary
   - 
 - Technology Section
+  - TEchnology
+  - Science & Health
+  - Artificial Intelligence
 - Business Section
 - World Affairs
 - Arts & Culture
@@ -38,3 +41,10 @@ Setting off
 - news 
 - videos on the same
 - build platform access by login
+
+Politics Commentary Technology Business
+
+Home Articles Features Sections Discover
+
+Sections
+Home News Business Technology Culture Lifestyle
