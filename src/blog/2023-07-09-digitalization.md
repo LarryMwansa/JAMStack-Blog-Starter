@@ -2,7 +2,7 @@
 
 title: The Concept Of Digitalization
 description: Digitalization is reshaping industries, driving innovation, and transforming the way we live and work. From AI-powered automation to blockchain's decentralized ledger, technology is propelling us into a digital future, where opportunities abound for businesses and individuals alike.
-author: Bwanji Digital Staffer
+author: Kuli Manje Staffer
 date: 2023-07-09
 tags:
   - post
