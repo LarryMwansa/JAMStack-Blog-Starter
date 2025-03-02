@@ -6,24 +6,25 @@ layout: 'base.njk'
 <section class="hero">
   <div class="container flow">
     <div class="hero__content flow">
-      <h1 class="section-title">Welcome to my blog!</h1>
-      <p>I use this space to document my adventures in front-end development, sharing how I’ve overcome issues I’ve run into, useful resources, and more.</p>
-      <p>Below are some of my favourite articles, or you can go to the blog page to see my most recent posts.</p>
+      <h1 class="section-title">Imagine A Faith!</h1>
+      <p>The revelation of Jesus, the Chosen One, is for everyone who dares to seek it. This is Kuli Manje—the journey of unveiling the mystery of Jesus, the Chosen One.  </p>
+      <p>We can know Him. We can experience Him. We can walk in the reality of His truth.  </p>
+      <p>Join the movement—step into the light of truth today!</p>
       <div class="flex-group">
         <a href="#featured-articles" class="btn btn--primary">Featured articles</a>
         <a href="./blog" class="btn btn--neutral">Most recent articles</a>
       </div>
     </div>
     <div class="hero__image-container">
-      <img src="//unsplash.it/510" alt="" class="hero__image">
+      <img src="https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/403732648_7248818751795604_1863641250890512393_n.png?stp=dst-jpg_tt6&_nc_cat=111&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeG5KUDgKDGe_QodKZTDUxNWWZEbXGRTt2ZZkRtcZFO3Zmr-Oyzj6FbfXaBtCBjlzDHUa2vN5_LbjAO3cTkiYIbk&_nc_ohc=R6_WVRIHlW4Q7kNvgHOGuWb&_nc_oc=AdgPzjEdVKJv1_i-ZY-uPab6CV1GwV07d-x2lcZixIUK2wN6-1uhenssyZAqPpzGAWA&_nc_zt=23&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AV6s8w8ysaixMLmpPcjy5il&oh=00_AYCPhWLF0iieKd5_AWmxN4t6DRcxpnn3Vf6zEguEMdxMZA&oe=67CA39DE" alt="A city in silhouette a sunset on the horizon. A 3 quarter moon in the skyline. " class="hero__image">
     </div>
   </div>
 </section>
 
 <section id="featured-articles" class="featured-articles">
   <div class="container flow">
-    <h2 class="section-title text-center ">Featured Hot Fantastic Delicious articles</h2>
-    <p class="text-center">Here is a sample of articles which I feel give you a good idea of what this site is all about.</p>
+    <h2 class="section-title text-center ">Featured Articles</h2>
+    <p class="text-center">Explore our latest insights, expert opinions, and in-depth analysis on topics that matter.</p>
     <ul role="list" class="articles__list flow">
 
       {%- for post in collections.featured | reverse -%}
