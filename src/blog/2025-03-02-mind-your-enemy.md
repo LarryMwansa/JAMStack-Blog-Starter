@@ -8,7 +8,7 @@ tags:
   - post
   - Personal Development
   - featured
-image: /assets/blog/mind-your-enemy.jpg
+image: /assets/blog/2025-03-02-mind-your-enemy.md
 imageAlt: Photo by Mart Production
 
 ---
